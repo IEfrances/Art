@@ -1,0 +1,18 @@
+body{
+    background-image: url(b3.jpg);
+    background-size: cover;
+    }
+
+
+div{
+   display: inline-block;
+   }
+
+img{
+   width:250;
+   height:250;
+   }
+
+p{
+  font-size: 15pt;
+ }

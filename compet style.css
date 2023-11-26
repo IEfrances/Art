@@ -1,0 +1,49 @@
+body{
+    background-color: F7883B;
+    background-size: cover;
+    }
+
+#add{
+    background-image: url(b.jpg);
+    height: 160px;
+    width: 1358px;
+    margin-left: -10px;
+    margin-top: -9px;
+    text-align: center;
+    }
+
+h1{
+   color: white;
+   font-family: 'Sedgwick Ave Display', cursive;
+   font-size: 35pt;
+  }
+
+#add h3{
+       margin-top: -35px;
+       color: white;
+       }
+
+#add h4{
+       color: #612903;
+       }
+
+#add2 p{
+       text-align: center;
+       font-size: 15pt;
+       }
+
+#add2 h2{
+        font-size: 15pt;
+        text-align: center;
+        padding-top: 40px;
+        }
+
+#add3 {
+      background-color: #0D95D0;
+      color: #ffffff;
+      padding: 20px;
+      text-align: center;
+      }
+
+
+

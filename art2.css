@@ -1,0 +1,64 @@
+body{
+    background-image: url(bb.png);
+    background-size: cover;
+    }
+
+#top{
+   background-image: url(face.jpg);
+   background-size: cover;
+   width: 1354px;
+   height: 200px;
+   text-align: center;
+   padding-top: 80px;
+   font-family: 'Zilla Slab Highlight', cursive;
+   color: white;
+   font-size: 30pt;
+   margin-left: -8px;
+   margin-top: -10px;
+    }
+
+
+
+#top h6{
+       margin-top: -50px;
+       font-size: 10pt;
+       font-family: verdana;
+       color: #ffffff;
+        }
+
+ a{
+      text-decoration: none;
+      color: #ffffff; 
+      margin: 10px;
+      }
+
+a:hover {
+      color: olive;
+      border: 2px solid black;
+}
+
+h3{
+   text-align: center;
+   padding-bottom: 120px;
+   padding-top: 80px;
+   }
+
+#img{
+   opacity: 6;
+   height: 1200px;
+   width: 1500px;
+   }
+
+img{
+   height: 200px;
+   width: 200px;
+   border: 2px solid black;
+   }
+
+.add{
+    display: inline-block;
+    padding-bottom: 40px;
+    margin-right: 250px;
+    margin-left: 150px;    
+    float:right;
+    }
